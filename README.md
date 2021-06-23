@@ -1,7 +1,6 @@
-Olá! 👋
 ## Olá! 👋 
 
-<img align= "right" alt= 'GIF' src= "https://octocat-generator-assets.githubusercontent.com/my-octocat-1624419416217.png" width= "400px" />
+<img align= "right" alt= 'GIF' src= "https://octocat-generator-assets.githubusercontent.com/my-octocat-1624419416217.png" width= "600px" />
  Meu nome é Aracele.
  
 Atualmente estou aprendendo:
@@ -25,5 +24,5 @@ Gosto de desafios e sempre busco aprender algo novo.
  - Acampar;
   - Assistir series e filmes;
     
- 💬  Fique a vontade para me chamar, ficarei muito feliz em poder ajudar.
+💬  Fique a vontade para me chamar, ficarei muito feliz em poder ajudar.
 📧 Meu contato  [aracele-souza@hotmail.com](mailto:contato@strongreen.com).
