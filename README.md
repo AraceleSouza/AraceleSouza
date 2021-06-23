@@ -1,34 +1,29 @@
 Olá! 👋
+## Olá! 👋 
 
+<img align= "right" alt= 'GIF' src= "https://octocat-generator-assets.githubusercontent.com/my-octocat-1624419416217.png" width= "400px" />
  Meu nome é Aracele.
  
-<img align= "right" alt= 'GIF' src= "https://octocat-generator-assets.githubusercontent.com/my-octocat-1624419416217.png"/>
 Atualmente estou aprendendo:
 
-✔️ HTML
-
-✔️ CSS
-
-✔️JavaScript
-
-✔️Java 
-
-✔️Python
-
-✔️  C ++
+✔️ **HTML** 
+✔️ **CSS** 
+✔️**JavaScript**
+✔️**Java**  
+✔️**Python**
+✔️ **C ++**
 
 Sou apaixonada por tecnologia e estou cursando Análise e Desenvolvimento de Sistemas. 💻
-
 Gosto de desafios e sempre busco aprender algo novo.
 
-Meus hobbies são:
 
-- Estudar;
-- Viajar;
-- Caminhar e fazer trilhas;
-- Acampar;
-- Assistir series e filmes;
+> Meus hobbies são:
 
-💬  Fique a vontade para me chamar, ficarei muito feliz em poder ajudar.
-
-📧 Meu contato  aracele-souza@hotmail.com.
+ - Estudar;
+ -  Viajar;
+ - Caminhar e fazer trilhas;
+ - Acampar;
+  - Assistir series e filmes;
+    
+ 💬  Fique a vontade para me chamar, ficarei muito feliz em poder ajudar.
+📧 Meu contato  [aracele-souza@hotmail.com](mailto:contato@strongreen.com).
