@@ -1,6 +1,6 @@
 ## Olá! 👋 
 
-<img align= "right" alt= 'GIF' src= "https://octocat-generator-assets.githubusercontent.com/my-octocat-1624419416217.png" width= "600px" />
+<img align= "right" alt= 'GIF' src= "https://octocat-generator-assets.githubusercontent.com/my-octocat-1624419416217.png" width= "500px" />
  Meu nome é Aracele.
  
 Atualmente estou aprendendo:
