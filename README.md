@@ -1,6 +1,8 @@
 Olá! 👋
 
  Meu nome é Aracele.
+ 
+ <img align= "right" alt= 'GIF' src= "[Download your Octocat](https://octocat-generator-assets.githubusercontent.com/my-octocat-1624419416217.png)"/>
 
 Atualmente estou aprendendo:
 
