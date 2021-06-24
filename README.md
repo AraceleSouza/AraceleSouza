@@ -9,12 +9,13 @@
 
 <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aracelesouza&&layout=compact&hide=shell&theme=jolly"/>
 
-</div>
-
 
 <img align= "right" alt= 'GIF' src= "https://octocat-generator-assets.githubusercontent.com/my-octocat-1624419416217.png" width= "500px" />
  Meu nome é Aracele.
  
+ 
+</div>
+
 Atualmente estou aprendendo:
 
 ✔️ **HTML** 
