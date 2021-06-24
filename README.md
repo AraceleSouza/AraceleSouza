@@ -26,15 +26,3 @@ Gosto de desafios e sempre busco aprender algo novo.
     
 💬  Fique a vontade para me chamar, ficarei muito feliz em poder ajudar.
 📧 Meu contato  [aracele-souza@hotmail.com](mailto:contato@strongreen.com).
-- usa : Platane / snk @ master
-        id : snake-gif
-        com :
-          github_user_name : rafaballerini
-          svg_out_path : dist / github-Contribution-grid-snake.svg
-
-      - usa : crazy-max/ghaction-github-pages@v2.1.3
-        com :
-          target_branch : output
-          build_dir : dist
-        env :
-          GITHUB_TOKEN : $ {{secrets.GITHUB_TOKEN}}
