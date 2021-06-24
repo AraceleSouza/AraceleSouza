@@ -1,5 +1,5 @@
 ## Olá! 👋 
-
+<html>
 
 <div>
 
@@ -12,6 +12,8 @@
 
 </div>
 
+ <html/>
+ 
 <img align= "right" alt= 'GIF' src= "https://octocat-generator-assets.githubusercontent.com/my-octocat-1624419416217.png" width= "500px" />
  Meu nome é Aracele.
  
