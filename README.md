@@ -28,5 +28,15 @@ Gosto de desafios e sempre busco aprender algo novo.
 📧 Meu contato  [aracele-souza@hotmail.com](mailto:contato@strongreen.com).
 
 
+<div>
+
+<a href="https://github.com/aracelesouza">
+
+
+<img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=aracelesouza&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+
+<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aracelesouza&&layout=compact&hide=shell&theme=jolly"/>
 
 ![Snake animation](https://github.com/aracelesouza/aracelesouza/blob/output/github-contribution-grid-snake.svg)
+
+</div>
