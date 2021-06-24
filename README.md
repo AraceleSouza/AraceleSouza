@@ -1,25 +1,15 @@
 ## Olá! 👋 
 
-<html lang="pt-br">
+<div>
+
+<a href="https://github.com/aracelesouza">
 
 
-<body>
+<img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=aracelesouza&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 
-    <div>
+<img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aracelesouza&&layout=compact&hide=shell&theme=jolly"/>
 
-        <a href="https://github.com/aracelesouza">
-        
-        
-        <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=aracelesouza&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-        
-        <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aracelesouza&&layout=compact&hide=shell&theme=jolly"/>
-        
-        </div>
-
-</body>
-
-</html>
-
+</div>
 
 
 <img align= "right" alt= 'GIF' src= "https://octocat-generator-assets.githubusercontent.com/my-octocat-1624419416217.png" width= "500px" />
