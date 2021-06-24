@@ -31,3 +31,10 @@ Gosto de desafios e sempre busco aprender algo novo.
         com :
           github_user_name : rafaballerini
           svg_out_path : dist / github-Contribution-grid-snake.svg
+
+      - usa : crazy-max/ghaction-github-pages@v2.1.3
+        com :
+          target_branch : output
+          build_dir : dist
+        env :
+          GITHUB_TOKEN : $ {{secrets.GITHUB_TOKEN}}
