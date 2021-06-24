@@ -27,4 +27,7 @@ Gosto de desafios e sempre busco aprender algo novo.
 💬  Fique a vontade para me chamar, ficarei muito feliz em poder ajudar.
 📧 Meu contato  [aracele-souza@hotmail.com](mailto:contato@strongreen.com).
 
-![Snake animation](https://github.com/aracelesouza/aracelesouza/blob/output/github-contribution-grid-snake.svg)
+
+
+
+![Snake animation](https://github.com/aracelesouza/blob/output/github-contribution-grid-snake.svg)
