@@ -29,4 +29,4 @@ Gosto de desafios e sempre busco aprender algo novo.
 
 
 
-![Snake animation](https://github.com/AraceleSouza/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/aracelesouza/aracelesouza/blob/output/github-contribution-grid-snake.svg)
