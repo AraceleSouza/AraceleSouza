@@ -8,12 +8,7 @@
 
 </div>
 
-<img scr = "https://github.com/AraceleSouza/AraceleSouza/blob/53db113b864d2903ee8f79d5a6f2ad26f71fe492/capa%20GitHub.png" width="150px" />
-
-<img align= "right" alt= 'GIF' src= "https://octocat-generator-assets.githubusercontent.com/my-octocat-1624419416217.png" width= "500px" />
-
 Meu nome é Aracele.
-
 
 <p>📌 Moro em São José dos Campos-SP. </p>
 <p>💻 Sou apaixonada por tecnologia.</p>
