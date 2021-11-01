@@ -1,18 +1,14 @@
 # Olá! 👋   Seja bem vindo!
 
+<a href="https://github.com/aracelesouza"> </a><img height="160em"  src="https://github-readme-stats.vercel.app/api?username=aracelesouza&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aracelesouza&&layout=compact&hide=shell&theme=jolly"/>
+</div>
+
 Meu nome é Aracele.
 
 <p>📌 Moro em São José dos Campos-SP. </p>
 <p>💻 Sou apaixonada por tecnologia.</p>
 <p>🎓 Cursando Análise e Desenvolvimento de Sistemas. </p>
 <p>🎯 Gosto de desafios e sempre busco aprender algo novo.</p>
- <div>
-
-<a href="https://github.com/aracelesouza"> </a>
-
-<img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=aracelesouza&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/> <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aracelesouza&&layout=compact&hide=shell&theme=jolly"/>
-
-</div>
 
 ### Estudando:
 <div style="display:inline_block">
