@@ -11,8 +11,6 @@
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1624419416217.png" width="300px" />  ⚡ Olá!  Sou Aracele, assistente administrativo em transição de carreira para desenvolvimento web. Estudante do curso Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera.<br><br> ⚡ Além dos conhecimentos em HTML, CSS e Javascript, estou estudando Ruby on Rails. <br><br> <blockquote>"A tecnologia que você usa não impressiona ninguém. <br>A experiência que você cria com ela que é tudo." <br>Sean Gerety</blockquote><br>
 
 
----
-
 ## Skills 
 <div style="display:inline_block">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
