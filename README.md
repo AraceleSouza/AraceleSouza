@@ -1,22 +1,19 @@
-
 # Olá! 👋   Seja bem vindo!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AraceleSouza" alt="AraceleSouza" /> </p>
 
 <div style="display:inline_block">
 <a href="https://github.com/aracelesouza"> </a><img height="150em"  src="https://github-readme-stats.vercel.app/api?username=aracelesouza&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aracelesouza&&layout=compact&hide=shell&theme=jolly"/>
 </div>
 
-  <h2> Sobre mim </h2>
+  ## Sobre mim 
   
-#### 👩 Meu nome é Aracele.
-<p>📌 Sou estudante do curso Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera de São José dos Campos - SP.</p>
-
-<p>📌 Minhas principais habilidades são flexibilidade e capacidade de me adaptar a mudanças. Gosto de desafios e sempre busco aprender algo novo.</p>
-
-<p>📌Estou em transição de carreira, com experiência anterior como assistente adminstrativo, com graduação em Administração e pós graduação em Contabilidade. Amplo conhecimento na área fiscal, com ênfase em escrituração, emissão e cancelamento de notas através do sistema ERP. </p>
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1624419416217.png" width="500px" />  ⚡ Olá!  Sou Aracele, assistente administrativo em transição de carreira para desenvolvimento web. Estudante do curso Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera.<br><br> ⚡ Além dos conhecimentos em HTML, CSS e Javascript, estou estudando Ruby on Rails. <br><br> <blockquote>"A tecnologia que você usa não impressiona ninguém. <br>A experiência que você cria com ela que é tudo." <br>Sean Gerety</blockquote><br>
 
 
-<h2> Skills </h2>
+---
+
+## Skills 
 <div style="display:inline_block">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -35,13 +32,6 @@
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg"><div>
 
-<h2> Conecte-se comigo </h2>
+##  Conecte-se comigo
 <a href="https://www.linkedin.com/in/aracelesouza-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:[aracele-souza@hotmail.com]"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> <a href="https://instagram.com/aracelesouza2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-
-
-
-
-
-
