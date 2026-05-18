@@ -12,11 +12,10 @@ Estou em transição para a área de tecnologia e venho construindo projetos pr�
 🔗 [https://github.com/AraceleSouza/sistema-biblioteca](https://github.com/AraceleSouza/sistema-biblioteca)  
 Sistema em Python que permite cadastrar, listar e buscar livros por categoria, além de gerar gráficos para análise dos dados.
 
-### 🛍️ Sistema de Vendas
+### 🛍️ Sistema Controle de Caixa
 
-🔗 [https://github.com/AraceleSouza/sistema-vendas](https://github.com/AraceleSouza/sistema-vendas)  
-Aplicação para registro de vendas com múltiplas formas de pagamento, cálculo automático de valores e controle básico de caixa.
-
+🔗 [https://github.com/AraceleSouza/sistema-vendas](https://github.com/AraceleSouza/sistema-controle-caixa)  
+Sistema de controle de caixa desenvolvido com Python, Flask, HTML, CSS e JavaScript, com registro de vendas e resumo financeiro em tempo real.
 ### 🐾 Sistema Veterinário
 
 🔗 [https://github.com/AraceleSouza/sistema-veterinaria](https://github.com/AraceleSouza/sistema-veterinaria)  
