@@ -2,8 +2,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento backend utilizando Python.  
-Estou em transição para a área de tecnologia e venho construindo projetos práticos que simulam situações reais, buscando evoluir continuamente minhas habilidades em lógica de programação e resolução de problemas.
+Sou estudante de Engenharia de Software com foco em desenvolvimento web e soluções digitais para pequenos negócios. Atualmente desenvolvo projetos voltados à criação de sites, aplicações web e automação de processos utilizando Python no backend, buscando unir tecnologia e resultados reais para empresas e empreendedores.
 
 ## 💼 Projetos em destaque
 
