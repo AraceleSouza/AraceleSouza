@@ -1,8 +1,10 @@
-# 👋 Olá, eu sou a Aracele!
+# 👋 Olá, eu sou a Aracele Souza!
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento web e soluções digitais para pequenos negócios. Atualmente desenvolvo projetos voltados à criação de sites, aplicações web e automação de processos utilizando Python no backend, buscando unir tecnologia e resultados reais para empresas e empreendedores.
+Sou estudante de Engenharia de Software com foco em Desenvolvimento Web e apaixonada por transformar ideias em aplicações modernas e funcionais.
+Desenvolvo projetos utilizando Python, Flask, HTML, CSS, JavaScript e SQL, aplicando boas práticas de desenvolvimento, versionamento com Git e buscando escrever código limpo, organizado e de fácil manutenção.
+Tenho interesse em desenvolver aplicações escaláveis, acessíveis e que proporcionem a melhor experiência possível para o usuário. Estou em constante aprendizado, aprimorando minhas habilidades por meio de projetos práticos e estudos contínuos.
 
 ## 💼 Projetos em destaque
 
